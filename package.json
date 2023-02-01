@@ -5,6 +5,9 @@
   "repository": "git@github.com:KKendle/travel-with-friends.git",
   "author": "Kevin Kendle <1066413+KKendle@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
